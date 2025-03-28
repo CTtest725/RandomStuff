@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "color": "blue",
+      "detail": {
+        "Success": 1
+      },
+      "highlighted": false,
+      "icon": null,
+      "id": "idroot",
+      "mainStat": 0.377,
+      "nodeRadius": 32,
+      "secondaryStat": 0.0678,
+      "subtitle": "client",
+      "testValue": 8,
+      "title": "root"
+    },
+    {
+      "color": "red",
+      "detail": {
+        "Success": 0.512
+      },
+      "highlighted": false,
+      "icon": null,
+      "id": "idservice1",
+      "mainStat": 0.931,
+      "nodeRadius": 36.1,
+      "secondaryStat": 0.925,
+      "subtitle": "service",
+      "testValue": 5,
+      "title": "service1"
+    },
+    {
+      "color": "orange",
+      "detail": {
+        "Success": 1
+      },
+      "highlighted": false,
+      "icon": null,
+      "id": "idLeandroNode",
+      "mainStat": 1,
+      "nodeRadius": 50,
+      "secondaryStat": 1,
+      "subtitle": "Person",
+      "testValue": 3,
+      "title": "Leandro Node"
+    }
+  ]
+}
