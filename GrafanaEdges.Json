@@ -1,0 +1,30 @@
+{
+  "edges": [
+    {
+      "color": "blue",
+      "detail": {
+        "message": "message"
+      },
+      "highlighted": true,
+      "id": "root--service:1",
+      "mainStat": "MainStat2",
+      "secondaryStat": "SecStat1",
+      "source": "idroot",
+      "target": "idservice1",
+      "thickness": 7
+    },
+    {
+      "color": "purple",
+      "detail": {
+        "message": "massage"
+      },
+      "highlighted": false,
+      "id": "root--Leandro Node",
+      "mainStat": "MainStat2",
+      "secondaryStat": "SecStat2",
+      "source": "idroot",
+      "target": "idLeandroNode",
+      "thickness": 2
+    }
+  ],
+}
